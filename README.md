@@ -2,7 +2,7 @@
 The repository consists of the Hadoop MapReduce code extracting only the information required by the ML algorithm for processing. The ML algorithm(linear regression) uses daily close/adj_close prices to get the next day's price. Some MR is done for demonstration purposes and can also be used for analysis. Also general analysis is done on the output of MR code using python.
 
 #### GitHub 	link1:  https://github.com/loCoder/StockMarketPred-MapReduce
-#### (alternate) link2: https://github.com/smaransandri/Big-Data
+#### (alternate) link2: https://github.com/apoorva1112/stock-analysis
 The Project has two parts:
  ## Part1: Apache Hadoop Mapreduce
  It has MapReduce code in Java, and is implemented on single-node Apache Hadoop v2.6.0 on (Linux-based) Ubuntu 14.04 OS.
